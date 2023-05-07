@@ -11,6 +11,7 @@ var URLactual = window.location;
 console.log(URLactual);
 
 //  * 4
+window.location.hostname
 
 //  * 5
 const imagenes = document.querySelectorAll(".img-sprite");
